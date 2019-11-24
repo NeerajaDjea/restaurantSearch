@@ -2,7 +2,8 @@
 
 ## About the app
 
-Can be accessed by clicking: https://nalinkane.github.io/Project-1/
+
+Can be accessed by clicking:neerajadjea.github.io
 
 Our Restaurant search was created with a tourist/foodie in mind. Our client wants to find restaurants in the nearby area and to be able to sort his findings by distance/price/rating. For that purpose, our website collects the client's coordinates to establish the nearby eateries. The restaurants are displayed in a column(mobiles) and additionally, in rows for desktop. The name, image and a phone number are displayed initially. By clicking "View more" on underneath the restaurant's details, the client will be able to access a given restaurant's cuisine type, an average price for two, an address and the opening times.
 
